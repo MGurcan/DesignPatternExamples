@@ -1,4 +1,4 @@
-package DesignPatterns.BehavioralPatterns.StatePattern.TCPConnectionExample;
+package BehavioralPatterns.StatePattern.TCPConnectionExample;
 
 /*
     Context

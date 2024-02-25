@@ -1,4 +1,4 @@
-package DesignPatterns.BehavioralPatterns.StatePattern.TCPConnectionExample;
+package BehavioralPatterns.StatePattern.TCPConnectionExample;
 
 public class TCPStates {
     static TCPEstablished ESTABLISHED = new TCPEstablished();

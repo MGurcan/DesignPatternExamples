@@ -1,4 +1,4 @@
-package DesignPatterns.BehavioralPatterns.TemplateMethod.SocialMediaExample;
+package BehavioralPatterns.TemplateMethod.SocialMediaExample;
 
 /*
     CONCRETE CLASS

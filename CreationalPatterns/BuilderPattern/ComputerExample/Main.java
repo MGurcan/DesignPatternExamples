@@ -1,4 +1,4 @@
-package DesignPatterns.CreationalPatterns.BuilderPattern.ComputerExample;
+package CreationalPatterns.BuilderPattern.ComputerExample;
 
 /*
     CLIENT
