@@ -32,6 +32,4 @@ public class StandarComputerBuilder implements ComputerBuilder{
     public Computer build() {
         return computer;
     }
-
-    
 }
